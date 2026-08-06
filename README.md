@@ -1,6 +1,6 @@
 # Data Analyst
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: Python, SQL, Tableau, PowerBI
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
