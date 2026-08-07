@@ -1,18 +1,97 @@
-# Data Analyst
+# Hi, I'm Swarnalekha 👋
 
-#### Technical Skills: Python, SQL, Tableau, PowerBI
+### 📊 Aspiring Data Analyst | Business & Process Enthusiast
 
-## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+Welcome to my GitHub profile! I'm an aspiring Data Analyst passionate about turning data into meaningful insights and supporting better business decisions.
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+I am currently building my skills in **Excel, SQL, Python, Power BI, and Data Visualization** through practical projects and real-world datasets.
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+---
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+## 👩‍💻 About Me
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+- 🎓 M.Eng. in Technology and Innovation Management/ B.Sc. in Industrial Engineering
+- 📊 Currently learning **Data Analytics & Business Intelligence**
+- 🔍 Interested in **Data Analysis, Business Intelligence, Process Improvement & Data Visualization**
+- 🧠 Learning how to transform raw data into actionable insights
+- 📈 Building projects using real-world datasets
+- 🌱 Currently improving my **SQL, Python, Tableau & Power BI** skills
+- 💼 Open to **Junior Data Analyst / Business Analyst opportunities**
+- 📍 Based in Offenach am Main
 
-![Bike Study](/assets/img/bike_study.jpeg)
+---
+
+## 🛠️ Skills & Tools
+
+### 📊 Data Analysis
+- Excel
+- SQL
+- Python
+- Pandas
+- NumPy
+
+### 📈 Data Visualization
+- Power BI
+- Matplotlib
+- Seaborn
+- Excel Dashboards
+
+### 🗄️ Databases
+- MySQL
+- PostgreSQL
+- SQL Server
+
+### 📋 Methodologies
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- KPI Analysis
+- Data Visualization
+- Statistical Analysis
+- Business Analysis
+- Process Improvement
+
+---
+
+# 📂 Featured Projects
+
+## 1. 🛒 E-Commerce Sales Analysis
+
+**Tools:** Excel | SQL | Power BI
+
+Analyzed an e-commerce dataset to identify sales trends, customer behavior, and product performance.
+
+### Key Analysis
+- Monthly revenue trends
+- Top-performing products
+- Customer segmentation
+- Regional sales performance
+- Profitability analysis
+
+### Key Insights
+- 📈 [Insight 1]
+- 💰 [Insight 2]
+- 👥 [Insight 3]
+
+🔗 **[View Project →](PROJECT-LINK)**
+
+---
+
+## 2. 🏦 Bank Customer Churn Analysis
+
+**Tools:** Python | Pandas | Matplotlib | Power BI
+
+Analyzed customer data to identify factors contributing to customer churn.
+
+### Key Analysis
+- Customer demographics
+- Churn rate
+- Customer tenure
+- Product usage
+- Geographic patterns
+
+### Key Insights
+- [Insight 1]
+- [Insight 2]
+- [Insight 3]
+
+🔗 **[View Project →](PROJECT-LINK)**
