@@ -117,7 +117,7 @@ I am interested in opportunities involving:
 ---
 
 # 📫 Lets Connect
-<div align="center"> <a href="[https://www.linkedin.com/in/swarnalekha-khandker/]"> <img src="https://img.shields.io/badge/LinkedIn-Connect-6C63FF?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> 
+<div align="center"> <a href="https://www.linkedin.com/in/swarnalekha-khandker/"> <img src="https://img.shields.io/badge/LinkedIn-Connect-6C63FF?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> 
 <a href="mailto:swarnalekha.hs@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </div>
 
 ---
