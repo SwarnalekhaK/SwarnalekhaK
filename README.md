@@ -1,10 +1,10 @@
 # Hi, I'm Swarnalekha 👋
 
-### 📊 Aspiring Data Analyst | Business & Process Enthusiast
+### 📊 Aspiring Business Intelligence (BI) Analyst | Business Process Professional
 
-Welcome to my GitHub profile! I'm an aspiring Data Analyst passionate about turning data into meaningful insights and supporting better business decisions.
+Welcome to my GitHub profile! I'm an aspiring Business Intelligence Analyst passionate about turning data into meaningful insights and supporting better business decisions by ensuring operational excellence.
 
-I am currently building my skills in **Excel, SQL, Python, Power BI, and Data Visualization** through practical projects and real-world datasets.
+I am currently building my skills in **Excel, SQL, Python, Power BI, and Data Tableau** through practical projects and real-world datasets.
 
 ---
 
