@@ -16,7 +16,7 @@ I am currently building my skills in **Excel, SQL, Python, Power BI, and Data Ta
 - 🧠 Learning how to transform raw data into actionable insights
 - 📈 Building projects using real-world datasets
 - 🌱 Currently improving my **SQL, Python, Tableau & Power BI** skills
-- 💼 Open to **Junior Data Analyst / Business Analyst opportunities**
+- 💼 Open to **Junior Data Analyst / Junior Business Intelligence Analyst opportunities**
 - 📍 Based in Offenach am Main
 
 ---
