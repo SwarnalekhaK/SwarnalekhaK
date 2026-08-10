@@ -24,11 +24,6 @@ I am currently building my skills in **Excel, SQL, Python, Power BI, and Data Ta
 ## 🛠️ Skills & Tools
 
 ### 📊 Data Analysis
-- Excel
-- SQL
-- Python
-- Pandas
-- NumPy
 
 <p>
 <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
@@ -38,15 +33,19 @@ I am currently building my skills in **Excel, SQL, Python, Power BI, and Data Ta
 </p>
 
 ### 📈 Data Visualization
-- Power BI
-- Matplotlib
-- Seaborn
-- Excel Dashboards
+
+<p>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
 
 ### 🗄️ Databases
-- MySQL
-- PostgreSQL
-- SQL Server
+<p>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+</p>
 
 ### 📋 Methodologies
 - Data Cleaning
@@ -117,9 +116,9 @@ I am interested in opportunities involving:
 
 ---
 
-# 📫 Connect With Me
-💼 LinkedIn: https://www.linkedin.com/in/swarnalekha-khandker/
-📧 Email: swarnalekha.hs@gmail.com
+# 📫 Lets Connect
+<div align="center"> <a href="https://www.linkedin.com/in/YOUR-USERNAME"> <img src="https://img.shields.io/badge/LinkedIn-Connect-6C63FF?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> 
+<a href="mailto:swarnalekha.hs@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </div>
 
 ---
 ⭐ Thank you for visiting my GitHub profile! Feel free to explore my repositories, provide feedback, or connect with me.
