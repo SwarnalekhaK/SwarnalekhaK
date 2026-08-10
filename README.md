@@ -95,3 +95,24 @@ Analyzed customer data to identify factors contributing to customer churn.
 - [Insight 3]
 
 🔗 **[View Project →](PROJECT-LINK)**
+
+---
+
+# 🌍 Career Interests
+I am interested in opportunities involving:
+
+- Data Analytics
+- Business Intelligence
+- Operations Analytics
+- Industrial Analytics
+- Reporting & Dashboarding
+- Business Analysis
+
+---
+
+# 📫 Connect With Me
+💼 LinkedIn: https://www.linkedin.com/in/swarnalekha-khandker/
+📧 Email: swarnalekha.hs@gmail.com
+
+---
+⭐ Thank you for visiting my GitHub profile! Feel free to explore my repositories, provide feedback, or connect with me.
