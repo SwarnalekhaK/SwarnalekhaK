@@ -30,6 +30,13 @@ I am currently building my skills in **Excel, SQL, Python, Power BI, and Data Ta
 - Pandas
 - NumPy
 
+<p>
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+</p>
+
 ### 📈 Data Visualization
 - Power BI
 - Matplotlib
