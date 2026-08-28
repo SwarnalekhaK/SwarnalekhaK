@@ -60,47 +60,23 @@ I am currently building my skills in **Excel, SQL, Python, Power BI, and Data Ta
 
 # 📂 Featured Projects
 
-## 1. 🛒 E-Commerce Sales Analysis
+## 1. 🧸 Toy Store E-Commerce Dataset Analysis
 
-**Tools:** Excel | SQL | Power BI
+This project uses the **Maven Fuzzy Factory** e-commerce database, an online retailer that sells teddy bears.
+
+The database includes detailed marketing data on website sessions and pageviews by user, as well as orders and returns. It can be used to analyze and optimize marketing channels, measure website conversion performance, and understand the impact of new product launches.
+
+For this project, I used **MySQL** to analyze website traffic, conversion rates, marketing channel performance, revenue, refunds, and product profitability.
+
+**Tools:** 
+- **MySQL** — SQL analysis
+- **Git & GitHub** — Version control and portfolio
+- **Git LFS** — Large dataset storage
 
 Analyzed an e-commerce dataset to identify sales trends, customer behavior, and product performance.
 
-### Key Analysis
-- Monthly revenue trends
-- Top-performing products
-- Customer segmentation
-- Regional sales performance
-- Profitability analysis
+🔗 **[View Project →]([PROJECT-LINK](https://github.com/SwarnalekhaK/toy-store-ecommerce-analysis.git))**
 
-### Key Insights
-- 📈 [Insight 1]
-- 💰 [Insight 2]
-- 👥 [Insight 3]
-
-🔗 **[View Project →](PROJECT-LINK)**
-
----
-
-## 2. 🏦 Bank Customer Churn Analysis
-
-**Tools:** Python | Pandas | Matplotlib | Power BI
-
-Analyzed customer data to identify factors contributing to customer churn.
-
-### Key Analysis
-- Customer demographics
-- Churn rate
-- Customer tenure
-- Product usage
-- Geographic patterns
-
-### Key Insights
-- [Insight 1]
-- [Insight 2]
-- [Insight 3]
-
-🔗 **[View Project →](PROJECT-LINK)**
 
 ---
 
