@@ -99,7 +99,7 @@ I am interested in opportunities involving:
   <img src="https://img.shields.io/badge/LinkedIn-Connect-6C63FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
-<a href="mailto:swarnalekha.hs@gmail.com">
+<a href="mailto:swarnalekha.hs@gmail.com?subject=Hello%20Swarnalekha">
   <img src="https://img.shields.io/badge/Email-Contact-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
