@@ -75,7 +75,7 @@ For this project, I used **MySQL** to analyze website traffic, conversion rates,
 
 Analyzed an e-commerce dataset to identify sales trends, customer behavior, and product performance.
 
-🔗 **[View Project →]([PROJECT-LINK](https://github.com/SwarnalekhaK/toy-store-ecommerce-analysis.git))**
+🔗 **[View Project →](https://github.com/SwarnalekhaK/toy-store-ecommerce-analysis)**
 
 
 ---
